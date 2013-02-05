@@ -7,9 +7,7 @@ all that bunch of scripts/configs that may or may not be useful for others
 License and Copyright
 ---------------------
 
-Files: *
-Copyright: 2013 Jotam Jr. Trejo <jotamjr@gmail.com>
-License: GPL-1+ or Artistic
+Copyright 2013 Jotam Jr. Trejo <jotamjr@gmail.com>
 
 You can redistribute it and/or modify it under the terms of either:
 the GNU General Public License as published by the Free Software Foundation;
